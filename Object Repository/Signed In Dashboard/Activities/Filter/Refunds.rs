@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Refunds</name>
+   <tag></tag>
+   <elementGuidId>38b5b5b0-b910-428a-9c1e-ecf19641f90c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li[2]/div/fieldset/div[4]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>86ae8ff1-9abd-4add-ac7c-07e761e3a13f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_radio__check-icon-container___2-9-24</value>
+      <webElementGuid>670dac3b-e4f9-4343-ab5d-ede09fb5d728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;ZRTc1&quot;]/div[@class=&quot;CYYwi&quot;]/div[@class=&quot;ppvx_row___2-7-9 tOL4u ynbkg&quot;]/div[@class=&quot;ppvx_col-12___2-7-9 _7w8KL&quot;]/ul[@class=&quot;_5ahmT&quot;]/li[@class=&quot;xp1Nk _9GSMw&quot;]/div[@class=&quot;dtwWz&quot;]/fieldset[@class=&quot;ppvx_radio-group___2-9-24 ppvx--v2___2-9-24 oRhCV radioGroupsetV3&quot;]/div[@class=&quot;ppvx_radio___2-9-24 ppvx--v2___2-9-24&quot;]/label[@class=&quot;ppvx_radio__label___2-9-24 ppvx_radio__label--with-svg-icon___2-9-24&quot;]/span[@class=&quot;ppvx_radio__check-icon-container___2-9-24&quot;]</value>
+      <webElementGuid>c5836cf9-23c9-4ef8-a9f9-ba33e2b75074</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li[2]/div/fieldset/div[4]/label/span</value>
+      <webElementGuid>28b2e4bd-bb77-4637-8a0f-c19f27eed42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refunds'])[1]//span[1]</value>
+      <webElementGuid>4c43b22d-ae82-4f39-8757-c5502a9650db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments Received'])[1]/following::span[1]</value>
+      <webElementGuid>35f9a468-3e45-4133-ae2a-dc56f5f607f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfers'])[1]/preceding::span[2]</value>
+      <webElementGuid>b9d91aa4-e627-47eb-8150-63a1f95e0787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::span[4]</value>
+      <webElementGuid>20a4a84b-3d6c-4133-90e3-b1fa639a05de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/span</value>
+      <webElementGuid>f59aa04e-761d-4d4c-993d-ddd717a4bb51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

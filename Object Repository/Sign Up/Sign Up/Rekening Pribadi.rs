@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rekening Pribadi</name>
+   <tag></tag>
+   <elementGuidId>7bb5e991-b2c4-44f3-b1b3-4d8cc7dc904d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.radio-bullet</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='document-body']/div[2]/section/div/div/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cb46f6cb-8860-4322-863d-c096e83a3587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-bullet</value>
+      <webElementGuid>e4cf6361-bb95-41a7-b7e2-bc2ffc2ce8ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rekening Pribadi</value>
+      <webElementGuid>fbcfffaf-51b6-43d9-b265-a2a8c56b2f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;document-body&quot;)/div[@class=&quot;document-body-root&quot;]/section[@class=&quot;smart-account-selection smart&quot;]/div[@class=&quot;smart-wrapper&quot;]/div[@class=&quot;smart-input-wrapper&quot;]/div[@class=&quot;input-wrapper themePink&quot;]/div[@class=&quot;radioselect&quot;]/label[@class=&quot;radio-label-one&quot;]/span[@class=&quot;radio-bullet&quot;]</value>
+      <webElementGuid>75997283-0442-452f-90a5-2e5f072bcaf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='document-body']/div[2]/section/div/div/div/div/label/span</value>
+      <webElementGuid>8ae625eb-99ce-47e1-9a45-2c9ff56ee569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar rekening PayPal sekarang, gratis.'])[1]/following::span[1]</value>
+      <webElementGuid>166f6e5e-3243-4dea-88a8-d81295aaedbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[2]/following::span[1]</value>
+      <webElementGuid>97d433d4-a6f7-44a3-9f3c-741342f97f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belanja online dari jutaan penjual global.'])[1]/preceding::span[1]</value>
+      <webElementGuid>853648ab-6eca-411b-8543-95ce3a13efb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim dan terima pembayaran dari seluruh dunia.'])[1]/preceding::span[1]</value>
+      <webElementGuid>50926964-91f0-4e72-a126-ef50b3fa9ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rekening Pribadi']/parent::*</value>
+      <webElementGuid>e92e3f55-d42d-4277-ae1d-42a478ecaeb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>463f1fc5-71d8-45ea-b2f1-3b532a4c9e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rekening Pribadi' or . = 'Rekening Pribadi')]</value>
+      <webElementGuid>f0b36a44-70de-4352-ba2e-2239bd658d91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

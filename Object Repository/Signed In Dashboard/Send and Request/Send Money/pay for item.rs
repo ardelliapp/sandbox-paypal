@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pay for item</name>
+   <tag></tag>
+   <elementGuidId>089b36d6-47d2-4682-86c6-f49c5bb3c38e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1lv0lff</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='overpanel-root']/div[10]/span[2]/div/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f45c7569-fd37-4c35-b939-c99a8f6c17bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>gscard</value>
+      <webElementGuid>4933b076-d7db-4c2d-a195-8c9fe7fffe96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1lv0lff</value>
+      <webElementGuid>2296d954-3102-40ce-8fdb-2530a3672f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paying for an item or serviceThe seller pays a fee. Your eligible items are covered by PayPal Buyer Protection.</value>
+      <webElementGuid>db420588-384b-43af-9fc5-41b5fc63783a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;overpanel-root&quot;)/div[10]/span[2]/div[@class=&quot;css-1cpegtj&quot;]/div[@class=&quot;css-15ttqid col-xs-12 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3&quot;]/div[2]/div[@class=&quot;css-1a26704&quot;]/div[1]/div[@class=&quot;css-1bk85cg&quot;]/div[@class=&quot;css-1lv0lff&quot;]</value>
+      <webElementGuid>62a40031-7e70-4676-9ba3-1fe3f747ed19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='overpanel-root']/div[10]/span[2]/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>c36cc319-17e1-43c8-8a47-1e2763f94920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='It’s free to use your PayPal balance to send payments.'])[1]/following::div[1]</value>
+      <webElementGuid>a7ef7322-e078-4282-9864-36a6adb3f726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sending to a friend'])[1]/following::div[2]</value>
+      <webElementGuid>9189183f-4e72-4f37-85de-48fb66ee528f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>5bd52433-8e07-400f-a253-1118f128ae36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Paying for an item or serviceThe seller pays a fee. Your eligible items are covered by PayPal Buyer Protection.' or . = 'Paying for an item or serviceThe seller pays a fee. Your eligible items are covered by PayPal Buyer Protection.')]</value>
+      <webElementGuid>18230d95-8034-49d7-9f9b-ef685fe9de79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tracking numbers to add</name>
+   <tag></tag>
+   <elementGuidId>a0fc9b07-de2a-4518-b1ae-95cbce28fa9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li[3]/div/fieldset/div[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b53a412c-2f24-4480-bf7e-166a82c8b0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_radio__check-icon-container___2-9-24</value>
+      <webElementGuid>dae567b4-19ec-402f-92aa-7162c93eba82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;ZRTc1&quot;]/div[@class=&quot;CYYwi&quot;]/div[@class=&quot;ppvx_row___2-7-9 tOL4u ynbkg&quot;]/div[@class=&quot;ppvx_col-12___2-7-9 _7w8KL&quot;]/ul[@class=&quot;_5ahmT&quot;]/li[@class=&quot;xp1Nk _9GSMw&quot;]/div[@class=&quot;dtwWz&quot;]/fieldset[@class=&quot;ppvx_radio-group___2-9-24 ppvx--v2___2-9-24 oRhCV radioGroupsetV3&quot;]/div[@class=&quot;ppvx_radio___2-9-24 ppvx--v2___2-9-24&quot;]/label[@class=&quot;ppvx_radio__label___2-9-24 ppvx_radio__label--with-svg-icon___2-9-24&quot;]/span[@class=&quot;ppvx_radio__check-icon-container___2-9-24&quot;]</value>
+      <webElementGuid>0f30e944-a461-4cc1-8f59-b7c1f1d0a186</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li[3]/div/fieldset/div[2]/label/span</value>
+      <webElementGuid>159dc99d-171d-447b-961c-fd551e9d5f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracking numbers to add'])[1]//span[1]</value>
+      <webElementGuid>35213dfb-9c18-4d04-b13f-9245716ac58c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incoming payments to review'])[1]/following::span[1]</value>
+      <webElementGuid>4843eba9-6e88-47b3-b483-c065b2bba615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping labels to print'])[1]/preceding::span[2]</value>
+      <webElementGuid>4f3835c2-c1c1-4b0f-9b46-894cb24f7f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment requests to review'])[1]/preceding::span[4]</value>
+      <webElementGuid>be367be5-b3f1-4a03-8dee-dc4d116e60a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span</value>
+      <webElementGuid>807c2d53-4909-4f3e-b407-505399fb6178</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

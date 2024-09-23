@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create your PayPal.Me</name>
+   <tag></tag>
+   <elementGuidId>09f271db-29d8-44c1-b3e2-9d20355e6534</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d244a1c3-c2c2-4f43-b6f8-4e67471ce653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-io89zt</value>
+      <webElementGuid>c213cef6-72d8-4d2c-8e2d-76addd4dbefe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create your PayPal.Me profileCreate your PayPal.Me profileHelp your friends and customers know it's you they are paying.Create a Profile</value>
+      <webElementGuid>ee1d2860-e7fe-4bdc-8cfc-a956dd144df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper false&quot;]/div[1]/div[1]/div[@class=&quot;css-18v44rk&quot;]/div[@class=&quot;css-1oxxbhp&quot;]/div[@class=&quot;css-ybnhtb&quot;]/div[@class=&quot;css-1ymbc7y&quot;]/div[@class=&quot;css-io89zt&quot;]</value>
+      <webElementGuid>6e988ce4-c916-4f67-a4a6-1cbef514dfdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>7d474b56-63ae-4035-a484-375b8b245b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started'])[1]/following::div[1]</value>
+      <webElementGuid>c928841a-7d1c-48e8-8f01-97bbdbc9c585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller Protection'])[1]/following::div[1]</value>
+      <webElementGuid>18364e50-e397-4967-abea-b10b11913046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>87346692-a38c-45d8-b54f-aa8af3679474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Create your PayPal.Me profileCreate your PayPal.Me profileHelp your friends and customers know it&quot; , &quot;'&quot; , &quot;s you they are paying.Create a Profile&quot;) or . = concat(&quot;Create your PayPal.Me profileCreate your PayPal.Me profileHelp your friends and customers know it&quot; , &quot;'&quot; , &quot;s you they are paying.Create a Profile&quot;))]</value>
+      <webElementGuid>b673491b-e3b2-431c-a45d-0a4148567653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

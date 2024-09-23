@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>This Year</name>
+   <tag></tag>
+   <elementGuidId>c01853ff-2594-4c54-8d30-883cb9ef2e65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li/div/fieldset/div[4]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bac209c3-bf36-4490-ab79-b4423224fcbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_radio__check-icon-container___2-9-24</value>
+      <webElementGuid>1126e3ec-ad93-48fa-a7e3-d03671b56193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;ZRTc1&quot;]/div[@class=&quot;CYYwi&quot;]/div[@class=&quot;ppvx_row___2-7-9 tOL4u ynbkg&quot;]/div[@class=&quot;ppvx_col-12___2-7-9 _7w8KL&quot;]/ul[@class=&quot;_5ahmT&quot;]/li[@class=&quot;xp1Nk&quot;]/div[@class=&quot;dtwWz&quot;]/fieldset[@class=&quot;ppvx_radio-group___2-9-24 ppvx--v2___2-9-24 Fl-38 radioGroupsetV3&quot;]/div[@class=&quot;ppvx_radio___2-9-24 ppvx--v2___2-9-24&quot;]/label[@class=&quot;ppvx_radio__label___2-9-24 ppvx_radio__label--with-svg-icon___2-9-24&quot;]/span[@class=&quot;ppvx_radio__check-icon-container___2-9-24&quot;]</value>
+      <webElementGuid>d40f074d-f81f-457b-9498-7e1736e2b64b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li/div/fieldset/div[4]/label/span</value>
+      <webElementGuid>e216cdb6-9b9c-4132-91fb-b47f1c276893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This Year'])[1]//span[1]</value>
+      <webElementGuid>f8c319da-4a82-430b-a10f-8c7f59e1dc78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 90 days'])[1]/following::span[1]</value>
+      <webElementGuid>2a498b2e-1682-4902-a81d-0d7986541fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last year'])[1]/preceding::span[2]</value>
+      <webElementGuid>4a79006b-d93a-4ffc-b663-a833004771b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose a date range'])[1]/preceding::span[4]</value>
+      <webElementGuid>64378834-82d5-4c76-90bb-99eb205f3f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/span</value>
+      <webElementGuid>adfe8e8f-2460-4b6d-a88b-59df812ad250</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

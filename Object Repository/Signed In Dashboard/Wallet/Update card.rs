@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Update card</name>
+   <tag></tag>
+   <elementGuidId>8aaab14d-208b-47bf-8ac6-d44832b5e652</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ppvx_link.test_updateCard</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='contents']/main/section/div/div/div[2]/div[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7bac5805-cada-4f43-9b9b-0a14cce1f560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/myaccount/money/cards/CC-NW7FNCR3YLVCL/update</value>
+      <webElementGuid>1a239712-0c9f-4330-9db3-5738bae1adb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>updateCard</value>
+      <webElementGuid>dbf6f282-52e5-4105-84dd-fbf9227d0935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_link test_updateCard</value>
+      <webElementGuid>ab034235-c945-4b80-a99e-78191029643c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;is_last_fi_eligible&quot;:&quot;y&quot;}</value>
+      <webElementGuid>b39ed1e6-faaf-480d-a89f-935918a373e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update card</value>
+      <webElementGuid>00baf1f2-f185-4a52-b1b6-c963e794b1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contents&quot;)/main[@class=&quot;row accountPage-container js_accountPage-container elementDirection&quot;]/section[@class=&quot;col-sm-8 accountPage-sections fiDetailArea-container isActive&quot;]/div[@class=&quot;fiDetails-container js_fiDetails-container&quot;]/div[@class=&quot;cardDetails fiDetails&quot;]/div[@class=&quot;fiDetails-body&quot;]/div[@class=&quot;fiDetails-actionLinks updateRemoveCard-links fiDetailsSection&quot;]/a[@class=&quot;ppvx_link test_updateCard&quot;]</value>
+      <webElementGuid>522f0136-ba35-4d24-a714-0b2ee8168479</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='contents']/main/section/div/div/div[2]/div[5]/a</value>
+      <webElementGuid>d3c9e5a4-853f-4403-9627-83acde298cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Update card')]</value>
+      <webElementGuid>e9595509-0063-43f6-a7b7-bf594f585279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More about payment preferences'])[1]/following::a[1]</value>
+      <webElementGuid>dc3c774a-8d1d-47fc-98cd-bf03fafa6e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We’ll use this when you shop or send money for goods and services.'])[1]/following::a[2]</value>
+      <webElementGuid>bebee9cf-61d6-4baf-a270-29bbe800a9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove card'])[1]/preceding::a[1]</value>
+      <webElementGuid>72ca121b-425b-4b82-b764-609ba586e7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[2]/preceding::a[2]</value>
+      <webElementGuid>e4e624b8-34c0-461a-8438-233059cadfd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update card']/parent::*</value>
+      <webElementGuid>ba7148b9-1bfe-4c62-a6f1-c8242b4674b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/myaccount/money/cards/CC-NW7FNCR3YLVCL/update')]</value>
+      <webElementGuid>8d66ee27-08eb-4f03-b13e-1eb23fec38fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a</value>
+      <webElementGuid>9711f3d4-d7b4-43c7-80a3-d33c2479dd0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/myaccount/money/cards/CC-NW7FNCR3YLVCL/update' and (text() = 'Update card' or . = 'Update card')]</value>
+      <webElementGuid>b7bddb91-3854-4f88-b296-b3b4e4890359</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

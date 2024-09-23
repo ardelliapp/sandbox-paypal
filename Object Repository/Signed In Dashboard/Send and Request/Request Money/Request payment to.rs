@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Request payment to</name>
+   <tag></tag>
+   <elementGuidId>22dae8fb-e162-47c1-ad68-fbfaa5dfe807</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-nqgmib</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/form/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f1edbe0-07dc-4c1d-b225-b7c1f425f5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>95c3ba8e-f914-482f-823e-aad0cda6c714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-nqgmib</value>
+      <webElementGuid>183e2440-cbc5-4e0a-953b-a8df9a9981dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name, @username, email, or mobile</value>
+      <webElementGuid>b7f970a5-742e-44ff-a23e-7cc158b50c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper false&quot;]/div[1]/div[1]/div[@class=&quot;css-18v44rk&quot;]/div[1]/div[@class=&quot;css-124g4oa transferPage row&quot;]/form[@class=&quot;css-1m4rlv3 col-md-8&quot;]/div[@class=&quot;css-zdwxcm&quot;]/div[@class=&quot;css-1a9h57m&quot;]/div[@class=&quot;css-1k39sgh&quot;]/div[1]/div[1]/div[@class=&quot;css-nqgmib&quot;]</value>
+      <webElementGuid>27a178f3-45ef-499e-a2b7-0270063a518c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/form/div/div/div[2]/div/div/div</value>
+      <webElementGuid>a14c69af-ed1b-4e68-aadf-88b39113a3b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can request multiple payments from up to 20 people.'])[1]/following::div[4]</value>
+      <webElementGuid>041f88f5-8196-482c-9e6c-cd66e4e3685c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request payment from'])[1]/following::div[5]</value>
+      <webElementGuid>7383c09d-e83c-44a2-93fc-c2ec4c90008d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::div[8]</value>
+      <webElementGuid>2686f25f-ad64-4881-b0fd-efe8c02750a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div/div/div</value>
+      <webElementGuid>bb6bb6ae-3e7c-4f6d-8078-9b148e618a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Name, @username, email, or mobile' or . = 'Name, @username, email, or mobile')]</value>
+      <webElementGuid>300a7ca3-7afe-4388-bc9c-3dc5a42f1e2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

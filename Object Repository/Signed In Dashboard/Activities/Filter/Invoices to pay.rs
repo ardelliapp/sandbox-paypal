@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Invoices to pay</name>
+   <tag></tag>
+   <elementGuidId>8229a869-12ce-4248-8804-8993a7a76fac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li[3]/div/fieldset/div[5]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1befbb36-bc8c-4d46-a824-1857a0a5401a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_radio__check-icon-container___2-9-24</value>
+      <webElementGuid>cd577d57-a53f-4304-b6a8-bf6688cf1a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;ZRTc1&quot;]/div[@class=&quot;CYYwi&quot;]/div[@class=&quot;ppvx_row___2-7-9 tOL4u ynbkg&quot;]/div[@class=&quot;ppvx_col-12___2-7-9 _7w8KL&quot;]/ul[@class=&quot;_5ahmT&quot;]/li[@class=&quot;xp1Nk _9GSMw&quot;]/div[@class=&quot;dtwWz&quot;]/fieldset[@class=&quot;ppvx_radio-group___2-9-24 ppvx--v2___2-9-24 oRhCV radioGroupsetV3&quot;]/div[@class=&quot;ppvx_radio___2-9-24 ppvx--v2___2-9-24&quot;]/label[@class=&quot;ppvx_radio__label___2-9-24 ppvx_radio__label--with-svg-icon___2-9-24&quot;]/span[@class=&quot;ppvx_radio__check-icon-container___2-9-24&quot;]</value>
+      <webElementGuid>3a728f0e-2b12-4eb3-989b-934af2693c55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li[3]/div/fieldset/div[5]/label/span</value>
+      <webElementGuid>f77607e1-6f1b-45b8-9016-a39a9caa6219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices to pay'])[1]//span[1]</value>
+      <webElementGuid>55b4aafd-7e4d-490c-b201-bfc304379bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment requests to review'])[1]/following::span[1]</value>
+      <webElementGuid>d1febb21-6c2d-42ae-878c-2812459da0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Holds'])[1]/preceding::span[2]</value>
+      <webElementGuid>8d6f25ee-3083-4950-bcd6-a4a72a202fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/preceding::span[4]</value>
+      <webElementGuid>1100bd1b-739b-4405-bdcc-90ae88082910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label/span</value>
+      <webElementGuid>9af1fa95-62ab-4c64-981a-5009a13e78a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

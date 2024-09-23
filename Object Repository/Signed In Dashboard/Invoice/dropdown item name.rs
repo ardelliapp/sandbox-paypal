@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown item name</name>
+   <tag></tag>
+   <elementGuidId>02162c4c-1bdd-4d85-b0cc-1f8f02d00668</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pp-react-styles-3jyj59-col_5 > div.pp-react-styles-1psltl0 > div.pp-react-styles-12xeah7-text_input_base-text_body > div.pp-react-styles-seefud-icon_right > span.pp-react-styles-f7pbzf-svg-size_sm-BackgroundMediumContrast-affordance_trigger > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Item name'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f528fae7-4319-4331-92dd-4d7b6eb2c812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>26bb2285-f02b-45af-9602-2826ef667366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>0a156b34-7ab2-4291-b884-c1f766dab3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>2111b39b-5bba-4034-958f-64522d9327cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>f7fe67b1-4fc7-44b1-ab09-1c14510b49ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>b0db572f-2d7e-4bc7-8533-1b47986c55a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppui</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a9bd2a92-42a3-4c35-b3dc-c334cd1bf9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;items-section&quot;)/div[2]/div[@class=&quot;editable-item&quot;]/div[@class=&quot;edit-item-body&quot;]/div[@class=&quot;item-error pp-react-styles-97ji8w-card_base&quot;]/div[@class=&quot;item-fields-row pp-react-styles-s8u2ug-row&quot;]/div[@class=&quot;pp-react-styles-3jyj59-col_5&quot;]/div[@class=&quot;pp-react-styles-1psltl0&quot;]/div[@class=&quot;pp-react-styles-12xeah7-text_input_base-text_body&quot;]/div[@class=&quot;pp-react-styles-seefud-icon_right&quot;]/span[@class=&quot;pp-react-styles-f7pbzf-svg-size_sm-BackgroundMediumContrast-affordance_trigger&quot;]/svg[1]</value>
+      <webElementGuid>e5ecb4b7-d45c-44ff-8ad9-e1041a25df88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item name'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>77084353-ec2e-42c4-a34c-868dedd22183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>b3b21e3a-fb20-44bb-a40c-17d24c24dff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>df84c589-83a1-4ea6-8214-1f09ac555cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>eafce269-4680-4308-a23f-a43fca0e214c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

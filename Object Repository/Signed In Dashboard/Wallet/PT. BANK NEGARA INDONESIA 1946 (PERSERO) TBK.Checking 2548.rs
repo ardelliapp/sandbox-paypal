@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PT. BANK NEGARA INDONESIA 1946 (PERSERO) TBK.Checking 2548</name>
+   <tag></tag>
+   <elementGuidId>554e9ae6-ec70-4348-8911-f33e603665d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.radioGroup-label.table-col-xs-12.withdraw-fiSelectRadio.test_standardRadioOption</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainModal']/div/div/div/div/div/div/ul/li/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f6e94646-8085-4dce-86ed-691ea277778e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radioGroup-label table-col-xs-12 withdraw-fiSelectRadio test_standardRadioOption</value>
+      <webElementGuid>7d8989e9-17c3-449a-a1b1-c194735f72df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>BA-JU4DDFEYHXUH4__ACHRadioBtn</value>
+      <webElementGuid>7722e451-10a9-45ad-87ce-f22395f6770e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notrack</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e2a2fb21-3264-4c5c-be1c-e43255c8c8e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT. BANK NEGARA INDONESIA 1946 (PERSERO) TBK.Checking ••2548</value>
+      <webElementGuid>1412fece-8928-4c87-9db6-3f93cb24027e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainModal&quot;)/div[@class=&quot;vx_modal-wrapper-backgroundOverride vx_modal-wrapper elementDirection vx_modal-wrapper_logo&quot;]/div[1]/div[@class=&quot;vx_modal-content&quot;]/div[@class=&quot;form-container&quot;]/div[1]/div[@class=&quot;withdraw-standardFiLine&quot;]/ul[@class=&quot;radioGroup-list table-container&quot;]/li[@class=&quot;radioGroup-listItem table-row withdraw-fiSelectItem&quot;]/div[@class=&quot;vx_radio&quot;]/label[@class=&quot;radioGroup-label table-col-xs-12 withdraw-fiSelectRadio test_standardRadioOption&quot;]</value>
+      <webElementGuid>3a3d585d-4b27-4407-afd1-66e9c25281fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainModal']/div/div/div/div/div/div/ul/li/div/label</value>
+      <webElementGuid>176c3324-6ee1-4da3-a9d6-fd7cf24c533d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usually in 2-4 business days'])[1]/following::label[1]</value>
+      <webElementGuid>71468981-1b29-4edd-9236-38095a0a56a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer to your bank'])[1]/following::label[1]</value>
+      <webElementGuid>c3186cb7-339c-4104-b8f2-71c618d53f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>7dc2dbe1-0ca4-4807-8f23-a549e7cbfd6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'PT. BANK NEGARA INDONESIA 1946 (PERSERO) TBK.Checking ••2548' or . = 'PT. BANK NEGARA INDONESIA 1946 (PERSERO) TBK.Checking ••2548')]</value>
+      <webElementGuid>bfcc38d7-e703-4334-8ddc-e27ff56fe2f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Incoming payments to review</name>
+   <tag></tag>
+   <elementGuidId>dc761044-f15d-4f7f-98c5-6d1428540ca2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ppvx_radio__check-icon-container___2-9-24</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li[3]/div/fieldset/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>614fe273-0eb9-4803-b8d8-c1d6c06af92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_radio__check-icon-container___2-9-24</value>
+      <webElementGuid>4dd2ea4a-1aaa-4532-a3c5-38644d2682a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;ZRTc1&quot;]/div[@class=&quot;CYYwi&quot;]/div[@class=&quot;ppvx_row___2-7-9 tOL4u ynbkg&quot;]/div[@class=&quot;ppvx_col-12___2-7-9 _7w8KL&quot;]/ul[@class=&quot;_5ahmT&quot;]/li[@class=&quot;xp1Nk _9GSMw&quot;]/div[@class=&quot;dtwWz&quot;]/fieldset[@class=&quot;ppvx_radio-group___2-9-24 ppvx--v2___2-9-24 oRhCV radioGroupsetV3&quot;]/div[@class=&quot;ppvx_radio___2-9-24 ppvx--v2___2-9-24&quot;]/label[@class=&quot;ppvx_radio__label___2-9-24 ppvx_radio__label--with-svg-icon___2-9-24&quot;]/span[@class=&quot;ppvx_radio__check-icon-container___2-9-24&quot;]</value>
+      <webElementGuid>d0c13e57-0312-4a15-8e40-ece66819ca53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/ul/li[3]/div/fieldset/div/label/span</value>
+      <webElementGuid>4cedec67-cc69-4285-abb4-19a2f5e44154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incoming payments to review'])[1]//span[1]</value>
+      <webElementGuid>5d07bcd6-3623-4a56-ae7c-b07a1b2fac46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[1]</value>
+      <webElementGuid>8b864341-47a4-4713-a62e-3f9a97ca0bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracking numbers to add'])[1]/preceding::span[2]</value>
+      <webElementGuid>5cd2dbc6-aa03-4826-8846-023a00f7f372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping labels to print'])[1]/preceding::span[4]</value>
+      <webElementGuid>9707c8e5-a3ba-463f-b35b-b0e23b077e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>638deaa8-b796-42ca-863a-9152364e1330</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bank Name</name>
+   <tag></tag>
+   <elementGuidId>465de11d-dcdf-40db-9132-d02ba00a7dbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='contents']/main/section/div/div/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>72826bfc-17c0-4fd5-aab4-3a3d5924d1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>displayname</value>
+      <webElementGuid>1860de44-58a5-4c5b-90fc-1d55e83c1fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>{text.label} fiDetails-instrumentName</value>
+      <webElementGuid>23670de9-447e-4174-9f62-337faf4db9e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT. BANK NEGARA INDONESIA 1946 (PERSERO) TBK.</value>
+      <webElementGuid>2640676c-7808-41d5-b75c-919cfd08cd8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contents&quot;)/main[@class=&quot;row accountPage-container js_accountPage-container elementDirection&quot;]/section[@class=&quot;col-sm-8 accountPage-sections fiDetailArea-container isActive&quot;]/div[@class=&quot;fiDetails-container js_fiDetails-container&quot;]/div[@class=&quot;cardDetails fiDetails&quot;]/div[@class=&quot;fiDetails-body&quot;]/h3[@class=&quot;{text.label} fiDetails-instrumentName&quot;]</value>
+      <webElementGuid>48716f61-8dee-4842-a8ad-69db5e1188c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='contents']/main/section/div/div/div[2]/h3</value>
+      <webElementGuid>d2790eeb-9a97-4f83-8337-c599e71ad79e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='••2548'])[2]/following::h3[1]</value>
+      <webElementGuid>2b11555a-120f-4bcb-8f21-80e8c87c8d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::h3[1]</value>
+      <webElementGuid>dcbed6c3-26ca-4e54-a95b-793179252a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT. BANK NEGARA INDONESIA 1946 (PERSERO) TBK.'])[3]/preceding::h3[1]</value>
+      <webElementGuid>3d57dd64-5838-4752-a32e-05f63e8856ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checking ••2548'])[2]/preceding::h3[1]</value>
+      <webElementGuid>83275144-6bad-46ef-a67a-cdcd3e4e4f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>1bc56713-1e41-4cdb-81d4-f83123d6b682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'PT. BANK NEGARA INDONESIA 1946 (PERSERO) TBK.' or . = 'PT. BANK NEGARA INDONESIA 1946 (PERSERO) TBK.')]</value>
+      <webElementGuid>ad684538-a28f-4b41-83d7-c76a7c88a74b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

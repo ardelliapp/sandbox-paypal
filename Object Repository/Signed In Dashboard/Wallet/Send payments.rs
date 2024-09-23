@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Send payments</name>
+   <tag></tag>
+   <elementGuidId>e28b9edf-9e7e-4c67-9cd3-09309b9fd0a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.balanceDetails-moveMoneyButton.test_transfer-button.btn_v2_1.ppvx_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='contents']/main/section/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9b420906-4c33-4f51-b68e-477bb9888e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/myaccount/money/balances/transfer</value>
+      <webElementGuid>c8e5cd98-2af6-41b0-b873-4b8cb190211a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>viewTransfer</value>
+      <webElementGuid>87ba4c9d-afb5-4d5e-90f8-83dafb785d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;event_name&quot;:&quot;dw_wallet_pp_balance_home_transfer_pressed&quot;,&quot;source&quot;:&quot;wallet_add_fi_button&quot;,&quot;flow&quot;:&quot;wallet&quot;,&quot;isNewContext&quot;:true}</value>
+      <webElementGuid>34149aad-b5c1-45ef-b5ab-f9977b32198b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>balanceDetails-moveMoneyButton test_transfer-button btn_v2_1 ppvx_btn</value>
+      <webElementGuid>77819b2d-8f57-4ea9-845f-250cd4bb7792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pa-marked</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>eacf2755-5837-4645-93b2-4144abfdfaa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send payments</value>
+      <webElementGuid>e747c108-4c22-451f-8918-b6a8ab164d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contents&quot;)/main[@class=&quot;row accountPage-container js_accountPage-container elementDirection&quot;]/section[@class=&quot;col-sm-8 accountPage-sections fiDetailArea-container&quot;]/div[@class=&quot;fiDetails-container js_fiDetails-container&quot;]/div[@class=&quot;fiDetails&quot;]/div[@class=&quot;vx_blocks-for-mobile&quot;]/a[@class=&quot;balanceDetails-moveMoneyButton test_transfer-button btn_v2_1 ppvx_btn&quot;]</value>
+      <webElementGuid>a7864d6a-65cd-404b-a58b-7cb6d59de152</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='contents']/main/section/div/div/div[2]/a</value>
+      <webElementGuid>1574156c-9ee2-4b34-98d2-819f9e6f727a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Send payments')]</value>
+      <webElementGuid>3b9b65a7-a0f6-440c-a263-75df4ad06f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimated total of all currencies'])[1]/following::a[1]</value>
+      <webElementGuid>e1d5ad59-366e-460c-89fb-c434e78c2efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PayPal balance'])[2]/following::a[1]</value>
+      <webElementGuid>546bc3fb-97a9-4ed2-b143-1f712d290cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba777e36-d5a6-48f4-bd7c-cfdd6bddcf0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRIMARY'])[1]/preceding::a[1]</value>
+      <webElementGuid>4eda866f-f9e5-488e-a5b3-39b5ed58445b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send payments']/parent::*</value>
+      <webElementGuid>f18f8a73-ffc9-404a-9f16-d00293c801c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/myaccount/money/balances/transfer')]</value>
+      <webElementGuid>6b079fab-c333-45f4-9006-1e6703d570d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>35b4c06d-cbd6-47e9-afe4-8f7d2d42ff4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/myaccount/money/balances/transfer' and (text() = 'Send payments' or . = 'Send payments')]</value>
+      <webElementGuid>08987c23-e9b8-41c4-9633-a6ebd8f81354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003 - Transfer New Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca496f00-b115-403c-8dc6-d8c3b5581d77</testCaseGuid>
+</TestCaseEntity>

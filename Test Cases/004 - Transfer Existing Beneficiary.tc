@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004 - Transfer Existing Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a03af0b4-b33e-4390-aaba-fde71b40b783</testCaseGuid>
+</TestCaseEntity>

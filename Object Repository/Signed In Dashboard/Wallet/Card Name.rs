@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Card Name</name>
+   <tag></tag>
+   <elementGuidId>0dc8ce18-6765-4265-a7c4-4a77d0e6ea9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ppvx_text--body.fiDetails-instrumentName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='contents']/main/section/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>74bdbb60-eddf-4104-91a2-0a6c14e52754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_text--body fiDetails-instrumentName</value>
+      <webElementGuid>24503743-e404-43f9-9285-6ff8cf8e48e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visa</value>
+      <webElementGuid>ebb74340-cbd7-4ae9-b380-042ead1fd94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contents&quot;)/main[@class=&quot;row accountPage-container js_accountPage-container elementDirection&quot;]/section[@class=&quot;col-sm-8 accountPage-sections fiDetailArea-container isActive&quot;]/div[@class=&quot;fiDetails-container js_fiDetails-container&quot;]/div[@class=&quot;cardDetails fiDetails&quot;]/div[@class=&quot;fiDetails-body&quot;]/div[@class=&quot;ppvx_text--body fiDetails-instrumentName&quot;]</value>
+      <webElementGuid>07c8dbe4-7858-4027-91ae-9eb29324c3fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='contents']/main/section/div/div/div[2]/div</value>
+      <webElementGuid>f23a0028-6b51-4f04-8d94-c2298d670834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='••9660'])[2]/following::div[2]</value>
+      <webElementGuid>03b4d45e-1b41-4da0-9535-5b34afa83f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[5]</value>
+      <webElementGuid>a7658516-2801-4959-9917-d010b63c104c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing address'])[1]/preceding::div[2]</value>
+      <webElementGuid>1f1fa989-4f16-43ba-823f-2d2113c6d61f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jl Senopati 1'])[1]/preceding::div[3]</value>
+      <webElementGuid>6cb4c1e1-53da-46cd-8d05-87158bfce236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div</value>
+      <webElementGuid>75d0c156-faf7-4b71-83f8-0052b035848a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Visa' or . = 'Visa')]</value>
+      <webElementGuid>56331efd-cb4a-4e32-992a-bcf808659552</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

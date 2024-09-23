@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Success</name>
+   <tag></tag>
+   <elementGuidId>315b33f7-5386-4888-931a-47bd7ecf2100</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-1rukd0d-text_heading_sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cb1c4243-67fb-4806-843c-be6feeb7bd7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1rukd0d-text_heading_sm</value>
+      <webElementGuid>985fec53-c226-4f72-9cd1-06e06fe7e5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppui-info</name>
+      <type>Main</type>
+      <value>heading-text_6.7.6</value>
+      <webElementGuid>74feb48f-491f-435a-93e8-8e0d1f6ccedb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nemo</name>
+      <type>Main</type>
+      <value>success-header</value>
+      <webElementGuid>566f8607-ae2c-44ce-a4f5-5632f0dd07d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You've sent 10,00 $ USD to Aa Aa</value>
+      <webElementGuid>064a65e5-8d51-4329-9363-a1636656b536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper false&quot;]/div[1]/div[@class=&quot;_1qxgquv reactPage-success&quot;]/div[@class=&quot;_1gk10ne&quot;]/div[1]/p[@class=&quot;css-1rukd0d-text_heading_sm&quot;]</value>
+      <webElementGuid>e5fca0a0-ce94-4cbd-b978-4a7978a06bb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/p</value>
+      <webElementGuid>f9a20489-4850-43a6-a4dd-72572df0e8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Messages'])[2]/following::p[1]</value>
+      <webElementGuid>90ec6aac-2987-40cd-a117-665226c9dab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no new messages.'])[2]/following::p[1]</value>
+      <webElementGuid>15727c2f-8ca5-4fe5-aa5c-ba6e915c0782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send More Money'])[1]/preceding::p[1]</value>
+      <webElementGuid>f55770c1-3301-4c99-b180-e43a5e14859c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to Summary'])[1]/preceding::p[1]</value>
+      <webElementGuid>bec78e72-993a-4bbe-b4f6-1d72ffdd1808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>375449ab-4dff-4ad9-bcd3-097d4c4d642c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;You&quot; , &quot;'&quot; , &quot;ve sent 10,00 $ USD to Aa Aa&quot;) or . = concat(&quot;You&quot; , &quot;'&quot; , &quot;ve sent 10,00 $ USD to Aa Aa&quot;))]</value>
+      <webElementGuid>adf31d98-cf3c-4b66-865d-2d7221b12d1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

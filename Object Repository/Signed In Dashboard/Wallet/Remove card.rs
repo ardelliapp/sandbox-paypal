@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Remove card</name>
+   <tag></tag>
+   <elementGuidId>0dfc03d8-5da4-4096-982b-1492eaf9c26b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ppvx_link.test_removeCard</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='contents']/main/section/div/div/div[2]/div[5]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>351fcdad-1493-4ef4-8846-61855e889dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/myaccount/money/cards/CC-NW7FNCR3YLVCL/remove</value>
+      <webElementGuid>7d1f928a-6418-411c-a18f-4d12aeeaa7c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>removeCard</value>
+      <webElementGuid>acd65455-40a7-4c02-8061-547ac1ef95e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;is_last_fi_eligible&quot;:&quot;y&quot;}</value>
+      <webElementGuid>23ef0b51-fd7c-4d3e-953c-e06f51bd9eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_link test_removeCard</value>
+      <webElementGuid>17fd2bfd-be10-4816-98a0-a454035ef55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove card</value>
+      <webElementGuid>fa65977d-1848-4f54-aeab-0bc2746e8967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contents&quot;)/main[@class=&quot;row accountPage-container js_accountPage-container elementDirection&quot;]/section[@class=&quot;col-sm-8 accountPage-sections fiDetailArea-container isActive&quot;]/div[@class=&quot;fiDetails-container js_fiDetails-container&quot;]/div[@class=&quot;cardDetails fiDetails&quot;]/div[@class=&quot;fiDetails-body&quot;]/div[@class=&quot;fiDetails-actionLinks updateRemoveCard-links fiDetailsSection&quot;]/a[@class=&quot;ppvx_link test_removeCard&quot;]</value>
+      <webElementGuid>a079c319-4883-4412-9589-0c839f59b863</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='contents']/main/section/div/div/div[2]/div[5]/a[2]</value>
+      <webElementGuid>ee2a7e74-7ec6-414c-bb40-076bba2a5793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Remove card')]</value>
+      <webElementGuid>4112bb19-b974-45fb-92cc-8b86c426ff34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update card'])[1]/following::a[1]</value>
+      <webElementGuid>3ef04e7b-16f4-427c-ab00-ba52008ba1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More about payment preferences'])[1]/following::a[2]</value>
+      <webElementGuid>32d32b79-5cd7-4482-838a-a61cc1b22638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[2]/preceding::a[1]</value>
+      <webElementGuid>7d7ac54a-2831-411a-9d39-112d9d3c1e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::a[2]</value>
+      <webElementGuid>18f3d1b4-6305-4b55-b703-1d7ffc193561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remove card']/parent::*</value>
+      <webElementGuid>e4cea58d-f8f8-4a6a-9a9e-274aef9f17e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/myaccount/money/cards/CC-NW7FNCR3YLVCL/remove')]</value>
+      <webElementGuid>62cbe756-eda5-4081-85ed-57daddb0166d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>fb4335bf-9052-462a-8295-7ed601950517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/myaccount/money/cards/CC-NW7FNCR3YLVCL/remove' and (text() = 'Remove card' or . = 'Remove card')]</value>
+      <webElementGuid>1c1b4afa-61d5-437e-9260-3ea963d250eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

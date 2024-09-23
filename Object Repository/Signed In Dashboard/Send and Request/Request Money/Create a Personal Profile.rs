@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create a Personal Profile</name>
+   <tag></tag>
+   <elementGuidId>3e8a946f-23f0-484e-9c36-92cac544d347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ac70b22-0fb5-445e-ae21-66a7c1414ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-lm3zoc</value>
+      <webElementGuid>3881a59e-5a98-422b-83d2-26493c4033cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create a Personal ProfileCreate a Personal ProfileGet paid from people you know.</value>
+      <webElementGuid>42c58ffc-e427-4f24-b45a-f1bceea53d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper false&quot;]/div[1]/div[1]/div[@class=&quot;css-18v44rk&quot;]/div[1]/div[@class=&quot;css-124g4oa transferPage row&quot;]/div[@class=&quot;css-lsvkvo col-md-4&quot;]/div[@class=&quot;css-1lmte7w&quot;]/div[@class=&quot;css-1xxk15j&quot;]/div[@class=&quot;css-lm3zoc&quot;]</value>
+      <webElementGuid>79a87aa3-9e63-43ea-a1e4-3a1a3e313197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>11efd8c8-488f-43a1-b884-a19e79f90103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller Protection'])[1]/following::div[1]</value>
+      <webElementGuid>a4aec3f4-1b2a-4bb1-b03b-73a08f17351a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>b09a946a-7ff1-4dca-8b09-e1cca6a8aaf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create a Personal ProfileCreate a Personal ProfileGet paid from people you know.' or . = 'Create a Personal ProfileCreate a Personal ProfileGet paid from people you know.')]</value>
+      <webElementGuid>104e86a2-9225-4a9c-b4b0-75efb03c3e09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

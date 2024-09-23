@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pembayaran</name>
+   <tag></tag>
+   <elementGuidId>0da0dbac-dc45-471b-9c3c-f53e869c07e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='PageMainForm']/fieldset/div/div/div[4]/div/button/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1d231cf-ff9a-4ad9-9149-994f8473ba8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> pp-cons-1l9wu85-col_10-col_sm_2</value>
+      <webElementGuid>1f1af8f8-b2ff-44e1-bfa2-7847ba6e56ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppui</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ebefbe54-74b9-4ac6-87d7-0b64611e83a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PageMainForm&quot;)/fieldset[1]/div[@class=&quot;formFieldsContainer&quot;]/div[@class=&quot;pp-cons-1jdwb3y-container_form&quot;]/div[@class=&quot;pp-cons-1v26bvb-row-justify_content_center&quot;]/div[@class=&quot;pp-cons-1aqxtsc-col_form_full&quot;]/button[@class=&quot;intent-tile-redesigned  intent-card-t1 pp-cons-1ib3jfh-card_base-clickable-elevation_level1&quot;]/div[@class=&quot;pp-cons-1djyuxb-container_fluid&quot;]/div[@class=&quot;pp-cons-12vsk8k-row-no_gutter&quot;]/div[@class=&quot;pp-cons-1l9wu85-col_10-col_sm_2&quot;]</value>
+      <webElementGuid>4a81e0b4-48bf-4e61-bc70-35863a0b1fdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PageMainForm']/fieldset/div/div/div[4]/div/button/div/div/div[3]</value>
+      <webElementGuid>1c509405-1b2d-4d4d-9e8f-6d775d7d30ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengirim pembayaran'])[1]/following::div[2]</value>
+      <webElementGuid>5009a193-2bc1-4a2a-b6a6-cfe9425127d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='©2024 PayPal'])[1]/preceding::div[6]</value>
+      <webElementGuid>1a4a3e2d-5bce-4e51-aad4-de94acc43c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privasi'])[1]/preceding::div[6]</value>
+      <webElementGuid>e96c1d32-90b4-4079-a781-7132de7853ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/div/div/div[3]</value>
+      <webElementGuid>26971b7c-951b-48d3-a3e3-38930ed39cb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

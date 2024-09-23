@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007 - Send to Our Own Bank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9887d4bd-c1de-488f-ab14-16d682257a7c</testCaseGuid>
+</TestCaseEntity>

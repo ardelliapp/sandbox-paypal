@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create an invoice</name>
+   <tag></tag>
+   <elementGuidId>281369f7-89f4-4232-bc98-73c1197f83b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nemo_invoiceLink > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nemo_invoiceLink']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2fa6e053-a0ce-4c65-a1e1-e62d0b4bcf2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create an invoiceCreate an invoiceCustomize, track, and send invoices.</value>
+      <webElementGuid>127ddc41-91f7-4081-91f6-145ecd67fa6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nemo_invoiceLink&quot;)/div[1]</value>
+      <webElementGuid>2b237ac9-f49c-4c47-8dcd-f1f05ccafa96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nemo_invoiceLink']/div</value>
+      <webElementGuid>e1a99eee-9f44-4466-af42-2c29b551fad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More ways to request'])[2]/following::div[3]</value>
+      <webElementGuid>15af54cc-dbce-4fe7-b581-a37f5d7655f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More ways to request'])[1]/following::div[4]</value>
+      <webElementGuid>3f4c2355-7fe1-44e8-a1c8-427954e12a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/div</value>
+      <webElementGuid>c29e2ac4-2327-463b-9253-23b1b4a55eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create an invoiceCreate an invoiceCustomize, track, and send invoices.' or . = 'Create an invoiceCreate an invoiceCustomize, track, and send invoices.')]</value>
+      <webElementGuid>b9a92efd-bfc3-4dd9-947e-2dcbbee25f74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

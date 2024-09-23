@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Send an invoice</name>
+   <tag></tag>
+   <elementGuidId>07132853-1b9b-4190-a77f-197c8c75d96c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-lm3zoc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76cbf8c6-3270-41a3-97c0-ab981bad9b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-lm3zoc</value>
+      <webElementGuid>bc1442a8-b022-4036-8019-67b10ff0ac0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send an invoiceSend an invoiceCustomize, track, and send invoices.Covered by Seller Protection  where eligible.</value>
+      <webElementGuid>33f7b316-2815-4b12-9b19-69d2f5fda6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper false&quot;]/div[1]/div[1]/div[@class=&quot;css-18v44rk&quot;]/div[1]/div[@class=&quot;css-124g4oa transferPage row&quot;]/div[@class=&quot;css-lsvkvo col-md-4&quot;]/div[@class=&quot;css-1lmte7w&quot;]/div[@class=&quot;css-1xxk15j&quot;]/div[@class=&quot;css-lm3zoc&quot;]</value>
+      <webElementGuid>76403510-bb2d-4b82-8224-b28f01becc56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>9217121b-e45d-4b7c-9649-f9174771ad2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More ways to send'])[2]/following::div[2]</value>
+      <webElementGuid>3de5f4ae-a5a1-4549-b7e5-3994233d2b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More ways to send'])[1]/following::div[3]</value>
+      <webElementGuid>4a1ec93b-305f-43b9-8e62-22b58e10e763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>480eb17d-a24f-4b48-83fd-eae0b6163e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Send an invoiceSend an invoiceCustomize, track, and send invoices.Covered by Seller Protection  where eligible.' or . = 'Send an invoiceSend an invoiceCustomize, track, and send invoices.Covered by Seller Protection  where eligible.')]</value>
+      <webElementGuid>ea3c99db-aa14-467a-aba9-a7123e0c4b9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

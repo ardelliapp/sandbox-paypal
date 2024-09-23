@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Contact 1</name>
+   <tag></tag>
+   <elementGuidId>877c45a8-448d-4e6f-bc4b-16bef79269c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1l9a57c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/div/div[3]/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba3035ad-2e3b-44ca-a0ec-98c424e3a97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1l9a57c</value>
+      <webElementGuid>431ad22f-cefc-48cb-a8e8-bfc04e80d849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper false&quot;]/div[1]/div[1]/div[@class=&quot;css-18v44rk&quot;]/div[@class=&quot;css-1wjrt09&quot;]/div[@class=&quot;css-yg8jkz&quot;]/div[@class=&quot;css-1jec218&quot;]/div[@class=&quot;css-4p9vrj&quot;]/div[@class=&quot;css-1v8my8o&quot;]/div[@class=&quot;css-4g6ai3&quot;]/div[@class=&quot;css-1kcbysz&quot;]/div[@class=&quot;css-1kt4482&quot;]/div[@class=&quot;css-1l9a57c&quot;]</value>
+      <webElementGuid>71922aea-f180-4bed-ab83-984c2f0f8140</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/div/div[2]/div/div/div/div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>a92fe807-e657-48d1-b674-32bbf9de0258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top contacts'])[1]/following::div[4]</value>
+      <webElementGuid>953c3eab-68ba-4728-ba40-07853affcee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::div[8]</value>
+      <webElementGuid>61e0d161-f241-43d0-8b98-6c55a06a2cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Store'])[1]/preceding::div[2]</value>
+      <webElementGuid>f51429d4-50a6-4c64-92fd-84af8ae85a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View blocked contacts'])[1]/preceding::div[7]</value>
+      <webElementGuid>68d7e1af-ae71-4e8d-8239-6f43161baecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>4beff59b-d5ef-4630-9b8d-03c031fae84b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

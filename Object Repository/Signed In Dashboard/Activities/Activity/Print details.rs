@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Print details</name>
+   <tag></tag>
+   <elementGuidId>e37ef1e4-6b5b-4881-9b98-9f608599912a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.spf_heading.bottom_margin.spf-1caaugt-links_base-text_body_strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='print-details-link']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>350e94b7-46ba-402c-a2b2-07be385b7755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>spf_heading bottom_margin spf-1caaugt-links_base-text_body_strong</value>
+      <webElementGuid>c3dc4124-0cbf-4bc7-bdc1-c40856d2edd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppui-info</name>
+      <type>Main</type>
+      <value>links_4.6.4</value>
+      <webElementGuid>ef09a850-af35-4867-90b1-43f4bf0a494f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f5d8237d-be28-4d39-ba32-c3cb2eda4358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Print details</value>
+      <webElementGuid>7066bb7d-4db9-4923-bf8d-afd4a858b88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;print-details-link&quot;)/a[@class=&quot;spf_heading bottom_margin spf-1caaugt-links_base-text_body_strong&quot;]</value>
+      <webElementGuid>218e9b26-b0c1-467d-975e-adbbf5766905</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='print-details-link']/a</value>
+      <webElementGuid>3f216722-8473-4f26-8ab5-38f14d24a7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Print details')]</value>
+      <webElementGuid>d347f6aa-fa74-4eb2-8f30-50013b92f154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::a[1]</value>
+      <webElementGuid>6401d511-0540-425e-bc95-27e1b18b9b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund total'])[1]/following::a[1]</value>
+      <webElementGuid>19ec072d-70e6-4129-a7c7-f7e1b76623bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[2]/preceding::a[1]</value>
+      <webElementGuid>0801ce51-4307-4014-9b88-267be4a468ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testingardellia@example.com'])[3]/preceding::a[1]</value>
+      <webElementGuid>1ab6cd75-4369-441e-bc58-a78fba4c870d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Print details']/parent::*</value>
+      <webElementGuid>d5d35fd1-8ebe-45fd-a7dd-34528c341c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/a</value>
+      <webElementGuid>69285cf9-8b55-4a01-a106-020d1af589a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Print details' or . = 'Print details')]</value>
+      <webElementGuid>0a7dbd16-139b-4038-a7ef-fc880fd89dec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

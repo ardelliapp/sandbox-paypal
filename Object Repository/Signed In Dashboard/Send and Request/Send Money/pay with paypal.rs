@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pay with paypal</name>
+   <tag></tag>
+   <elementGuidId>d651235d-dda1-4e22-9d57-c676d9896ee7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-9sglvw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/div/div/form/fieldset/ul/span/li/div/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f605d5af-58c9-4eb2-9268-1ff1bc041847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-9sglvw</value>
+      <webElementGuid>0c89813f-d7ac-4308-8b0f-5adc34f07f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PayPal Balance (USD)Fee: 1,00 $ USDPreferred</value>
+      <webElementGuid>bbe6cdd2-a669-400b-bceb-9f2563655e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper false&quot;]/div[1]/div[@class=&quot;_128ph2z&quot;]/div[@class=&quot;_1d2thn64&quot;]/form[1]/fieldset[1]/ul[@class=&quot;_fr3xby&quot;]/span[1]/li[@class=&quot;_1eobpuq&quot;]/div[@class=&quot;css-knvlnc&quot;]/div[@class=&quot;css-ntngjt-radio_base&quot;]/label[@class=&quot;css-1b3tfo9-radio_label-text_field_value_sm&quot;]/div[@class=&quot;css-9sglvw&quot;]</value>
+      <webElementGuid>d4f60cb4-7da6-46c7-9efe-70e5ce68b6a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/div/div/form/fieldset/ul/span/li/div/div/label/div</value>
+      <webElementGuid>36a3ce41-d657-494f-bb17-4f4bbdf3d90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do you want to pay?'])[1]/following::div[3]</value>
+      <webElementGuid>5653c343-7c30-4b7a-bc56-113032abd4e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Messages'])[2]/following::div[9]</value>
+      <webElementGuid>2c70d712-1eb0-47f9-b499-6241cd06d00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>0daee45d-1df8-4dc7-ba31-9f1d9c278d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PayPal Balance (USD)Fee: 1,00 $ USDPreferred' or . = 'PayPal Balance (USD)Fee: 1,00 $ USDPreferred')]</value>
+      <webElementGuid>ecfcc426-a6fa-48bd-985b-0337cbf67e52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>contact confirmation</name>
+   <tag></tag>
+   <elementGuidId>b99d19b6-321a-4f1c-a675-fdacbc4b33b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-kqwccg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='downshift-1-item-0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3436d981-3685-49fc-b439-6ea29660db0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-kqwccg</value>
+      <webElementGuid>b0e6f018-4e96-4991-80b3-7677639713b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send to: sb-adeha32792838@personal.example.com</value>
+      <webElementGuid>8cabdd54-1d1c-4bbf-a1ae-c685f37f7cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;downshift-1-item-0&quot;)/div[@class=&quot;css-kqwccg&quot;]</value>
+      <webElementGuid>4139f0eb-7f59-439d-ace1-ca7c11ebd123</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='downshift-1-item-0']/div</value>
+      <webElementGuid>bcdcf05e-5301-4953-b721-83fab2806481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear search input'])[1]/following::div[6]</value>
+      <webElementGuid>331c4798-8296-48c9-87a9-9ff70c158269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name, @username, email, or mobile'])[1]/following::div[7]</value>
+      <webElementGuid>04d89c26-b938-4a76-9584-3fdf196040aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::div[4]</value>
+      <webElementGuid>d78ab9d5-c8d7-4a2c-8774-e42111d6efe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div/div/div</value>
+      <webElementGuid>245da213-4940-4769-9f7a-0f79a5c35ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Send to: sb-adeha32792838@personal.example.com' or . = 'Send to: sb-adeha32792838@personal.example.com')]</value>
+      <webElementGuid>ac0dfa00-d186-45b5-8b15-82d5ad687672</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

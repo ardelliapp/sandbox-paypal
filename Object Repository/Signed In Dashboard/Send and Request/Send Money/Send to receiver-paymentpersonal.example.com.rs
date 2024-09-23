@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Send to receiver-paymentpersonal.example.com</name>
+   <tag></tag>
+   <elementGuidId>545fca35-bb84-4200-b3b2-10545fec5314</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-ocx2w6-text_body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='downshift-0-item-0']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5135f78a-22cc-44d1-bb01-d6095b72cb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-ocx2w6-text_body</value>
+      <webElementGuid>29be3c98-8f85-4330-bbb1-9bd378052eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppui-info</name>
+      <type>Main</type>
+      <value>body-text_6.7.6</value>
+      <webElementGuid>2362d216-8958-4cb9-9fc4-9a6546ba022a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send to: receiver-payment@personal.example.com</value>
+      <webElementGuid>74dd8757-6e3d-477f-a019-22670d67f09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;downshift-0-item-0&quot;)/div[@class=&quot;css-kqwccg&quot;]/div[@class=&quot;css-ocx2w6-text_body&quot;]</value>
+      <webElementGuid>c8a3503b-f969-40f0-b2bc-6d91f94f2f7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='downshift-0-item-0']/div/div[2]</value>
+      <webElementGuid>6a1d9277-c9c4-4867-a239-6402db73615c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear search input'])[1]/following::div[9]</value>
+      <webElementGuid>26f4c680-e76c-4a55-b3fa-6955e0f54fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name, @username, email, or mobile'])[1]/following::div[10]</value>
+      <webElementGuid>0e707fe4-a74d-490f-b48b-77f096637144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::div[1]</value>
+      <webElementGuid>9f38c2dc-bb28-44ad-a7a6-71363514d20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Store'])[1]/preceding::div[3]</value>
+      <webElementGuid>155c124c-0108-493f-a939-bf3ce2fac2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send to: receiver-payment@personal.example.com']/parent::*</value>
+      <webElementGuid>d5e12a6b-2968-4867-a75a-0b792d463ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>846752ad-d8e1-4907-993c-0b7a0642d42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Send to: receiver-payment@personal.example.com' or . = 'Send to: receiver-payment@personal.example.com')]</value>
+      <webElementGuid>e4e0b738-cd0d-42a5-b7a1-a1ea94721ec9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

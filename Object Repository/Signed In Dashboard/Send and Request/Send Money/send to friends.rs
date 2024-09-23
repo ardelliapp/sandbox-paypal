@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>send to friends</name>
+   <tag></tag>
+   <elementGuidId>80043ffc-2055-4a78-a5ed-f782bec40ff4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-et6hag</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='overpanel-root']/div[10]/span[2]/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61c1dd26-5bee-45fb-b696-acf1310104e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-et6hag</value>
+      <webElementGuid>daa4948f-9750-4fb0-be57-9c154e7962eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sending to a friendIt’s free to use your PayPal balance to send payments.</value>
+      <webElementGuid>e3cc4dd5-877b-4a60-b41a-29df78e935fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;overpanel-root&quot;)/div[10]/span[2]/div[@class=&quot;css-1cpegtj&quot;]/div[@class=&quot;css-15ttqid col-xs-12 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3&quot;]/div[2]/div[@class=&quot;css-1a26704&quot;]/div[1]/div[@class=&quot;css-1bk85cg&quot;]/div[@class=&quot;css-et6hag&quot;]</value>
+      <webElementGuid>de82342c-bc03-4ff6-95e0-1867c8463cad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='overpanel-root']/div[10]/span[2]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>5e041a24-5ab4-4a4c-8b1c-87abf3ea8cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What’s this payment for?'])[1]/following::div[2]</value>
+      <webElementGuid>bc7c09e7-5ced-4f71-9797-23abb4eb20a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/following::div[3]</value>
+      <webElementGuid>d20229c8-2587-454a-8f5b-2cb98a792871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>ab075ea8-99d8-459e-b0c0-c03ecb052240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sending to a friendIt’s free to use your PayPal balance to send payments.' or . = 'Sending to a friendIt’s free to use your PayPal balance to send payments.')]</value>
+      <webElementGuid>c2d82e2d-aa1d-4515-adc4-019a3a48c791</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
